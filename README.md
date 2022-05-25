@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm Daniel Giraldo👋
+
+- 🌱 I’m currently learning about software architecture and functional programming with golang and elixir
+- 💬 Ask me about .NET, Kafka, CQRS, Azure, Mongo, Rest API
+- 😄 Pronouns: He/Him
 
 <!--
 **dafegima/dafegima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
