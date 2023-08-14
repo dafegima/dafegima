@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Giraldo</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Satrack**
-
 - 🌱 I’m currently learning **Golang, Flutter and Software Architecture**
 
 - 🤝 I’m looking for help with **Elixir and Golang**
