@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dafegima](https://github.com/dafegima)
 
+- 📚 Find interesting articles on my blog [Daniel Giraldo - Medium](https://medium.com/@daniel_giraldo)
+
 - 💬 Ask me about **.NET, Azure, Kafka, CQRS, Rest API**
 
 - 📫 How to reach me **dafegima@gmail.com**
